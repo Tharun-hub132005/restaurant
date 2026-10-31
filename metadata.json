@@ -1,0 +1,8 @@
+{
+  "name": "Bangalore Mandarin",
+  "description": "Authentic Chinese, Asian, seafood and desserts at Bangalore Mandarin, Whitefield Main Road, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
